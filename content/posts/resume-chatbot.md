@@ -15,5 +15,9 @@ The interface is implemented with [Gradio](https://www.gradio.app), the source c
 	type="module"
 	src="https://gradio.s3-us-west-2.amazonaws.com/5.9.1/gradio.js"
 ></script>
-
-<gradio-app src="https://igor-davidyuk-new-space.hf.space"></gradio-app>
+<gradio-app
+    src="https://igor-davidyuk-new-space.hf.space"
+    eager="true"
+    info="false"
+    container="false">
+</gradio-app>
