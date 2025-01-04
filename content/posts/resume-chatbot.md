@@ -9,4 +9,4 @@ ShowToc: false
 ShowBreadCrumbs: false
 ---
 
-<iframe src="https://igor-davidyuk-new-space.hf.space/?__theme=dark" width="90%" height="700"></iframe>
+<iframe src="https://igor-davidyuk-new-space.hf.space/?__theme=dark" width="100%" height="650"></iframe>
