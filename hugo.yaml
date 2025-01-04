@@ -155,7 +155,7 @@ params:
       url: "mailto:igor.davidyuk@outlook.com"
     - name: github
       title: View my GitHub profile
-      url: "ttps://github.com/igor-davidyuk/"
+      url: "https://github.com/igor-davidyuk/"
     - name: linkedin
       title: Connect on LinkedIn
       url: "https://www.linkedin.com/in/idavidyuk/"
